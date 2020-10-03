@@ -15,7 +15,7 @@ This is a [SemVer](http://semver.org) compatible version management package for 
 Run the following command:
 
 ```bash
-composer require akaunting/version
+composer require conttas/laravel-version
 ```
 
 ### 2. Register (for Laravel < 5.5)
